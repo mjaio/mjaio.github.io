@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mjaio.csgad.com/Jlk/sitemap.xml.gz
